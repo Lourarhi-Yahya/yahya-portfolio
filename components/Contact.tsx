@@ -126,7 +126,7 @@ const Contact = () => {
                 Get in Touch
               </h3>
               <p className="text-gray-600 dark:text-gray-300 leading-relaxed">
-                I'm always open to discussing new opportunities, interesting projects, or just having a chat about technology and innovation.
+                I&apos;m always open to discussing new opportunities, interesting projects, or just having a chat about technology and innovation.
               </p>
             </div>
 
