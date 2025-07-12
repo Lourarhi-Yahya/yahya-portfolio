@@ -77,7 +77,7 @@ const Projects = () => {
           className="text-center mb-16"
         >
           <h2 className="text-3xl sm:text-4xl font-display font-bold text-gray-900 dark:text-white mb-4">
-            What I've Built
+            What I&apos;ve Built
           </h2>
           <p className="text-gray-600 dark:text-gray-300 max-w-2xl mx-auto">
             A showcase of my recent projects and solutions

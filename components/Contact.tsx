@@ -38,10 +38,10 @@ const Contact = () => {
           className="text-center mb-16"
         >
           <h2 className="text-3xl sm:text-4xl font-display font-bold text-gray-900 dark:text-white mb-4">
-            Let's Connect
+            Let&apos;s Connect
           </h2>
           <p className="text-gray-600 dark:text-gray-300 max-w-2xl mx-auto">
-            Got a project, idea, or want to chat? I'm always open to collaboration and creative partnerships.
+            Got a project, idea, or want to chat? I&apos;m always open to collaboration and creative partnerships.
           </p>
         </motion.div>
 

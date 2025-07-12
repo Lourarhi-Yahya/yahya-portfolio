@@ -70,10 +70,10 @@ const About = () => {
                 Who I Am
               </h3>
               <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed">
-                I'm Yahya Lourarhi, an engineer specialized in Data Science, AI, and Strategy with hands-on experience in digital transformation, predictive analytics, and performance optimization.
+                I&apos;m Yahya Lourarhi, an engineer specialized in Data Science, AI, and Strategy with hands-on experience in digital transformation, predictive analytics, and performance optimization.
               </p>
               <p className="text-gray-600 dark:text-gray-300 leading-relaxed">
-                I combine a strong technical foundation with business intuition to build data-driven tools that simplify complexity and generate real-world results. I'm passionate about innovation and using AI as a lever for measurable impact, particularly in multinational and cross-functional environments.
+                I combine a strong technical foundation with business intuition to build data-driven tools that simplify complexity and generate real-world results. I&apos;m passionate about innovation and using AI as a lever for measurable impact, particularly in multinational and cross-functional environments.
               </p>
             </div>
 
