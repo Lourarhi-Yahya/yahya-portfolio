@@ -76,12 +76,22 @@ Update the following files with your information:
 
 ## 🚀 Deployment
 
-### Vercel (Recommended)
-1. Push your code to GitHub
-2. Connect your repository to Vercel
-3. Deploy automatically
+### GitHub Pages (Current)
+This portfolio is automatically deployed to GitHub Pages using GitHub Actions:
+
+1. **Automatic Deployment**: Every push to the `master` branch triggers a new deployment
+2. **Build Process**: Next.js project is built and exported as static files
+3. **Live URL**: https://lourarhi-yahya.github.io/yahya-portfolio/
+
+### GitHub Actions Workflow
+The `.github/workflows/deploy.yml` file handles:
+- ✅ Node.js 18 setup
+- ✅ Dependencies installation
+- ✅ Next.js build and static export
+- ✅ GitHub Pages deployment
 
 ### Other Platforms
+- **Vercel**: Connect repository for automatic deployments
 - **Netlify**: Build command: `npm run build`
 - **Railway**: Automatic deployment from GitHub
 - **AWS Amplify**: Connect repository for automatic deployments
