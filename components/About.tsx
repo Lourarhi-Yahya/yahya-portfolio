@@ -40,7 +40,7 @@ const About = () => {
                 <div className="text-center text-white space-y-4">
                   <div className="w-48 h-48 rounded-full mx-auto overflow-hidden border-4 border-white/20 shadow-xl">
                     <img 
-                      src="/yahya-profile.jpeg" 
+                      src="yahya-profile.jpeg" 
                       alt="Yahya Lourarhi" 
                       className="w-full h-full object-cover"
                     />

@@ -117,7 +117,7 @@ const Hero = () => {
                 <div className="text-center space-y-4">
                   <div className="w-32 h-32 rounded-full mx-auto overflow-hidden border-4 border-white dark:border-dark-800 shadow-xl">
                     <img 
-                      src="/yahya-profile.jpeg" 
+                      src="yahya-profile.jpeg" 
                       alt="Yahya Lourarhi" 
                       className="w-full h-full object-cover"
                     />
